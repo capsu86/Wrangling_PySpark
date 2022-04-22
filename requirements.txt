@@ -1,0 +1,9 @@
+findspark
+pyspark
+pandas
+plotly
+matplotlib
+jupyter
+notebook
+ipykernel
+pyarrow
